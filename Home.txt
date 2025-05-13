@@ -1,3 +1,0 @@
-<h1>Hi, I'm [Your Name]</h1>
-<p>Full-Stack Developer | Problem Solver | Tech Enthusiast</p>
-<a href="projects.html">View My Work</a>
